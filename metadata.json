@@ -1,0 +1,7 @@
+{
+  "name": "FHR Mart",
+  "description": "A world-class, dark-themed e-commerce experience powered by Fida HussaiN Rana, featuring smart AI shopping assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
